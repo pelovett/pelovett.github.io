@@ -3,6 +3,7 @@ layout: default
 ---
 ### Timeline
 
+*  03-2021 Switched to getting a master's degree
 *  08-2019 Started PhD at Univesity of Arizona 
 *  08-2019 Started as Research Assistent in the [CLU lab](http://clulab.cs.arizona.edu/)
 *  05-2019 Graduated from the University of Oregon with BS in Com Sci
